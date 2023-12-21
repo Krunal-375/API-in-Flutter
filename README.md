@@ -1,16 +1,14 @@
-# flutter_application_4
+# API In Flutter
 
-A new Flutter project.
+A new Flutter project to perform API implementation.
 
-## Getting Started
+## APIs included in these projects
+Cat Fact - https://catfact.ninja/fact.
 
-This project is a starting point for a Flutter application.
+Random Activity - https://www.boredapi.com/api/activity.
 
-A few resources to get you started if this is your first Flutter project:
+Age Finder - https://api.agify.io/?name=$name.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Gender Finder - https://api.genderize.io/?name=$name.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dog Image - https://dog.ceo/api/breeds/image/random.
